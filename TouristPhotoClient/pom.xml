@@ -23,7 +23,7 @@
         <dependency>
             <groupId>com.mine</groupId>
             <artifactId>TouristPhotoBackend</artifactId>
-            <version>${parent.version}</version>
+            <version>${project.parent.version}</version>
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
